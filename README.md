@@ -169,7 +169,7 @@ happybooking-fabric/
 ## 👨‍💻 Author
 
 **[Your Name]**
-- GitHub: [@KULLANICI_ADINIZ](https://github.com/KULLANICI_ADINIZ)
+- GitHub: mustaphahaybat(https://github.com/mustaphahaybat)
 - Project: Data Engineering Final Project
 - Date: November 2024
 
