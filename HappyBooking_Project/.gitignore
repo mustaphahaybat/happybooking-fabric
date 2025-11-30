@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Data files
+data/*.csv
+docker/*.csv
+*.parquet
+*.json
+!data/README.md
+
+
+# Fabric
+.fabric/
+*.pbix
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# DBT
+dbt_project/target/
+dbt_project/logs/
+dbt_project/dbt_packages/
+
+# Notebooks
+notebooks/*.log
+*.ipynb_checkpoints/
+
+# Environment
+.env
+.env.local
+
+# Test outputs
+htmlcov/
+.coverage
+test-results/
+great_expectations/uncommitted/
+
+# Docker
+docker/stream_output/
